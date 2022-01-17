@@ -1,27 +1,12 @@
 import React from 'react';
-import {
-  Link
-} from "react-router-dom";
+import { Link } from "react-router-dom";
+import '../styles/navbar.css';
 // about me, projects, contact
 
 const Navigation = () => {
   return (
        
-          <div>
-            {/* <ul>
-              <li>
-                <Link to="/">Home</Link>
-              </li>
-              <li>
-                <Link to="/about">About</Link>
-              </li>
-              <li>
-                <Link to="/dashboard">Dashboard</Link>
-              </li>
-            </ul>
-    
-            <hr /> */}
-    
+  <div>
             {/*
               A <Switch> looks through all its children <Route>
               elements and renders the first one whose path
@@ -30,11 +15,9 @@ const Navigation = () => {
               of them to render at a time
             */}
 
-         
-
   <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
     <div class="container-fluid">
-      <a class="navbar-brand fw-bold" href="#project">Portfolio</a>
+      <a class="navbar-brand fw-bold" href="#project">Nicholas L Smith</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
