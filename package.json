@@ -20,5 +20,7 @@
     "url": "https://github.com/N1cholasSmith/Project-Portfolio-React/issues"
   },
   "homepage": "https://github.com/N1cholasSmith/Project-Portfolio-React#readme",
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
