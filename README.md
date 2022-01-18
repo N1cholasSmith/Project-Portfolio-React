@@ -23,8 +23,13 @@ My Project Portfolio displays the technical excellence I possess as a Full Stack
 <a name="technologies"></a>
 
 ## 🕹 Technologies used
+- Html
+- CSS
+- React.js
 
 
+
+---
 <a name="usage"></a>
 
 ## 🖥 Usage
@@ -35,9 +40,8 @@ The Responsive Project Portfolio is easily naviagted through the sitcky Navbar. 
 ---
 ## Features
 - About
-- Skills
 - Services
-- Featured Projects
+- Projects
 - Contact
 - Project Links 
     - Deployed Project Links
