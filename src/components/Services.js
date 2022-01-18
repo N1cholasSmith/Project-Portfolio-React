@@ -39,13 +39,13 @@ const services = [
 const Services = () => {
     return (
         <section id="services">
-        <div className="container my-2 py-1"/>
+        <div className="container m-2 p-1"/>
           <div className="row mb-5">
             <div className="col-12">
               <h1 className="fw-bold text-center">Services</h1>
               <hr/>
             </div>
-            <div className="row">
+            <div className="row d-flex justify-content-center">
                 {services.map( (service, index) => (
                     <ServicesCard key={index} title={service.title} img={service.img} description={service.description}/>
                     )  

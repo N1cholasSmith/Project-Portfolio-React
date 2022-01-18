@@ -1,7 +1,6 @@
-// import logo from './logo.svg';
+
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
-// import Routes from './components/Routes';
 import Navigation from './components/Navigation';
 import Home from './components/Home'
 import About from './components/AboutMe'
@@ -32,12 +31,7 @@ function App() {
           <Contact />
         </Route>
       </Switch>
-
       <Footer />
-
-
-      {/* <Routes /> */}
-      {/* route component will show something different based on where you are  */}
     </Router>
   );
 }

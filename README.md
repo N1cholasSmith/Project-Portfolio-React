@@ -1,70 +1,82 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/N1cholasSmith?style=social">     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/N1cholasSmith/horiseon-search-engine-optimization?style=social">     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/N1cholasSmith/horiseon-search-engine-optimization?style=social">
 
-## Available Scripts
 
-In the project directory, you can run:
+# Nicholas Smith Responsive Project Portfolio 
 
-### `npm start`
+---
+## Description
+My Project Portfolio displays the technical excellence I possess as a Full Stack Web Developer and the values that have shaped me as a professional software engineer. The motivating factor behind my portfolio is to show my professional excellence and continual improvement in a form that can be visualized and showcased. The projects I have completed are displayed within this webpage and available for review and speculation. I am able to be contacted through the contact form at the bottom if you wish to send an email. You can also download my brand statement and CV for further information. The Navbar has a projects dropdown which will like you to my featured projects deployed websites and their associated repositories.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[NicholasSmithSoftwareEngineer.com](https://n1cholassmith.github.io/project-portfolio-responsive/)
+---
+## Table of Contents
+- [Description](#description)
+- [Technlogies](#technologies)
+- [Usage](#usage)
+- [Features](#features)
+- [Credits/Contributors](#credits/contributors)
+- [How-to-Contribute](#how-to-contribute)
+- [License](#license)
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a name="technologies"></a>
 
-### `npm test`
+## 🕹 Technologies used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<a name="usage"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🖥 Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The Responsive Project Portfolio is easily naviagted through the sitcky Navbar. You're able to download my Brand Statement with the "Hire Me" button and the "Download CV" button will download my CV. There are multiple buttons that can link you all over the page making it fun and dynamic. The Icons displayed in the footer Link to the associated social media platform.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    
+---
+## Features
+- About
+- Skills
+- Services
+- Featured Projects
+- Contact
+- Project Links 
+    - Deployed Project Links
+    - GitHub Repository Links 
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
+<a name="contributors"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 👥 Contributors
+- Nicholas Smith: Software Engineer & Leading Seaman Aircraft Technician Royal Australian Navy
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+_[Nicholas Smith](https://github.com/N1cholasSmith)_ <br>
+_The Univserity of Sydney | Trilogy Education Services_ <br>
+---
+<a name="license"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔖 License
+MIT License
 
-## Learn More
+Copyright (c) [2021] [NicholasSmithSoftwareEngineer]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### Code Splitting
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

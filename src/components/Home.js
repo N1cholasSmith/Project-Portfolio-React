@@ -1,5 +1,6 @@
 import React from "react";
 import "../App.css";
+import BrandStatement from "../assets/pdf/Nicholas-Smith-Software-Engineer-Brand-Statement.pdf"
 import Profilepic from "../assets/images/Profilepic.PNG"
 import Setup from "../assets/images/Setup.png"
 import Vizag from "../assets/images/Vizag.png"
@@ -15,8 +16,8 @@ const Home = () => {
                     <h3 className="text-warning">SOFTWARE ENGINEER</h3>
                     <h1 className="display-1 fw-bold">I'M NICHOLAS <br/> SMITH </h1>
                     <div className="row buttons mt-4">
-                        <a className="col-3" href="assets/pdf/Nicholas-Smith-Software-Engineer-Brand-Statement.pdf"
-                        target="_blank"><button className=" btn btn-outline-warning px-4 py-2">Hire Me</button> </a>
+                        <a className="col-3" href={BrandStatement}
+                        target="_blank" rel="noreferrer"><button className=" btn btn-outline-warning px-4 py-2">Hire Me</button> </a>
                         <a className="col-3" href="#about"> <button className="btn btn-warning text-white px-4 py-2">About</button> </a>
                     </div>
                     </div>
