@@ -7,17 +7,17 @@ const Contact = () => {
     return (
         <div>
              <section id="contact">
-                <div class="container my-5 bg-promary">
-                    <div class="row mb-5">
-                        <div class="col-12">
-                            <h1 class="fw-bold text-center">Contact</h1>
+                <div className="container my-5 bg-promary">
+                    <div className="row mb-5">
+                        <div className="col-12">
+                            <h1 className="fw-bold text-center">Contact</h1>
                         </div>
                     </div>
-                    <div class="row col-12 d-flex justify-content-center">
+                    <div className="row col-12 d-flex justify-content-center">
                         <div>
-                            <h3 class="text-center">Lets Communicate...</h3>
+                            <h3 className="text-center">Lets Communicate...</h3>
                         </div>
-                        <div class="col-sm-10 col-md-8 col-lg-6 text-center">
+                        <div className="col-sm-10 col-md-8 col-lg-6 text-center">
                             <p>
                                 Send me a message using the form below, please provide your Name, Email Address,
                                 Subject and a consise message so i can promptly respond to you. Additionally, you can email
@@ -25,29 +25,29 @@ const Contact = () => {
                             </p>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-6 mx-auto">
+                    <div className="row">
+                        <div className="col-md-6 mx-auto">
                             <form action="https://formsubmit.co/nicholassmithsoftwareengineer@gmail.com" method="POST">
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput1" class="form-label">Full Name</label>
-                                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="James Allen" required/>
+                                <div className="mb-3">
+                                    <label for="exampleFormControlInput1" className="form-label">Full Name</label>
+                                    <input type="text" className="form-control" id="exampleFormControlInput1" placeholder="James Allen" required/>
                                 </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput1" class="form-label">Email Address</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"
+                                <div className="mb-3">
+                                    <label for="exampleFormControlInput1" className="form-label">Email Address</label>
+                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com"
                                         required/>
                                 </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlInput1" class="form-label">Subject</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"
+                                <div className="mb-3">
+                                    <label for="exampleFormControlInput1" className="form-label">Subject</label>
+                                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com"
                                         required/>
                                 </div>
-                                <div class="mb-3">
-                                    <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"
+                                <div className="mb-3">
+                                    <label for="exampleFormControlTextarea1" className="form-label">Message</label>
+                                    <textarea className="form-control" id="exampleFormControlTextarea1" rows="5"
                                         placeholder="Please feel free to contact me" required></textarea>
                                 </div>
-                                <button type="sumbit" class="btn btn-outline-warning">Send Message</button>
+                                <button type="sumbit" className="btn btn-outline-warning">Send Message</button>
                             </form>
                         </div>
                     </div>
