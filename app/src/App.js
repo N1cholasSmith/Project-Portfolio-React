@@ -8,6 +8,10 @@ function App() {
   return (
     <Router>
       <Navigation />
+      <Home />
+      <Footer />
+
+
       <Routes />
       {/* route component will show something different based on where you are  */}
     </Router>

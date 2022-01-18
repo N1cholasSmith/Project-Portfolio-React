@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import '../styles/navbar.css';
-// about me, projects, contact
+import '../styles/styles.css';
+
+import "../App.css"
 
 const Navigation = () => {
   return (
@@ -43,19 +44,6 @@ const Navigation = () => {
       </div>
     </div>
   </nav>
-
-
-  {/* <script>
-    window.onscroll = function () { scrollFunction() };
-
-    function scrollFunction() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("navbar").style.backgroundColor = "white";
-      } else {
-        document.getElementById("navbar").style.backgroundColor = "transparent";
-      }
-    }
-  </script> */}
 </div>
 
   );
