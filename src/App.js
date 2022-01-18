@@ -4,7 +4,7 @@ import './App.css';
 // import Routes from './components/Routes';
 import Navigation from './components/Navigation';
 import Home from './components/Home'
-import About from './components/About'
+import About from './components/AboutMe'
 import Services from './components/Services'
 import ProjectCarousel from './components/Projects/Index'
 import Contact from './components/Contact';
