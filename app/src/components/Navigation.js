@@ -32,10 +32,10 @@ const Navigation = () => {
             <Link class="nav-link px-4" to="/about">About</Link>
           </li>
           <li class="nav-item">
-            <Link class="nav-link px-4" to="/skills">Skills</Link>
+            <Link class="nav-link px-4" to="/services">Services</Link>
           </li>
           <li class="nav-item">
-            <Link class="nav-link px-4" to="/services">Services</Link>
+            <Link class="nav-link px-4" to="/project">Projects</Link>
           </li>
           <li class="nav-item">
             <Link class="nav-link px-4" to="/contact">Contact</Link>

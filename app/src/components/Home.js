@@ -13,7 +13,7 @@ const Home = () => {
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-6 d-flex flex-column justify-content-center">
                     <h3 class="text-warning">SOFTWARE ENGINEER</h3>
-                    <h1 class="display-1 fw-bold">I'M NICHOLAS <br> SMITH </br></h1>
+                    <h1 class="display-1 fw-bold">I'M NICHOLAS <br/> SMITH </h1>
                     <div class="row buttons mt-4">
                         <a class="col-3" href="assets/pdf/Nicholas-Smith-Software-Engineer-Brand-Statement.pdf"
                         target="_blank"><button class=" btn btn-outline-warning px-4 py-2">Hire Me</button> </a>

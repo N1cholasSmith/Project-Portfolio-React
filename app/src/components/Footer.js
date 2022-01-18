@@ -1,36 +1,10 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "../App.css";
 import LinkedIn from "../assets/images/linkedin-logo.png"
 import GitHub from "../assets/images/github-logo.png"
 import Instagram from "../assets/images/instagram-logo.png"
 import Twitter from "../assets/images/twitter-logo.png"
 
-
-
-
-// const icons = [
-//     {
-//         // LinkedIn
-//         name: "LinkedIn",
-//         link: "https://www.linkedin.com/in/nicholas-smith-softwareengineer/"
-//     },
-//     {
-//         // GitHub
-//         name: "GitHub",
-//         link: "https://github.com/N1cholasSmith"
-//     },
-//     {
-//         // Instagram
-//         name: "Instagram",
-//         link: "https://www.instagram.com/n1ckorish/"
-//     },
-//     {
-//         // Twitter
-//         name: "Twitter",
-//         link: "https://twitter.com/HGTPNFTNick"
-//     }
-// ];
 
 const Footer = () => {
     return (
