@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Project-Portfolio-React/static/css/main.aa9b88db.css",
+    "main.js": "/Project-Portfolio-React/static/js/main.cd8f4c60.js",
+    "static/js/787.edd59a96.chunk.js": "/Project-Portfolio-React/static/js/787.edd59a96.chunk.js",
+    "static/media/planit-screenshot.png": "/Project-Portfolio-React/static/media/planit-screenshot.2f8c1f0c504a51a95daf.png",
+    "static/media/database-management.jpeg": "/Project-Portfolio-React/static/media/database-management.c94e4e2c3da3dfcaea81.jpeg",
+    "static/media/Vizag.png": "/Project-Portfolio-React/static/media/Vizag.9b6ee1b54cf9f3528605.png",
+    "static/media/country-travel-advisor.png": "/Project-Portfolio-React/static/media/country-travel-advisor.208a6ec30c08e10dc99a.png",
+    "static/media/team-profile-generator-screenshot.png": "/Project-Portfolio-React/static/media/team-profile-generator-screenshot.884be02e4876027779e0.png",
+    "static/media/Setup.png": "/Project-Portfolio-React/static/media/Setup.04a912c0a2d711f1ea17.png",
+    "static/media/backend.jpeg": "/Project-Portfolio-React/static/media/backend.620a6e5e6961b81f794e.jpeg",
+    "static/media/SEO.jpeg": "/Project-Portfolio-React/static/media/SEO.bee8a9163435076b7ad1.jpeg",
+    "static/media/weather.png": "/Project-Portfolio-React/static/media/weather.a1e1dfa969366fa3c020.png",
+    "static/media/frontend.jpeg": "/Project-Portfolio-React/static/media/frontend.c665711977eab30384d1.jpeg",
+    "static/media/Nicholas-Smith-Software-Engineer-Resume.pdf": "/Project-Portfolio-React/static/media/Nicholas-Smith-Software-Engineer-Resume.9ec75515eeb3d6537b9b.pdf",
+    "static/media/SocialAPI.png": "/Project-Portfolio-React/static/media/SocialAPI.b39f9f1fea34f3f8b404.png",
+    "static/media/Profilepic.PNG": "/Project-Portfolio-React/static/media/Profilepic.c3f4eb5563d3bb9b760a.PNG",
+    "static/media/Nicholas-Smith-Software-Engineer-Brand-Statement.pdf": "/Project-Portfolio-React/static/media/Nicholas-Smith-Software-Engineer-Brand-Statement.01d091691deac4ccb27a.pdf",
+    "index.html": "/Project-Portfolio-React/index.html",
+    "main.aa9b88db.css.map": "/Project-Portfolio-React/static/css/main.aa9b88db.css.map",
+    "main.cd8f4c60.js.map": "/Project-Portfolio-React/static/js/main.cd8f4c60.js.map",
+    "787.edd59a96.chunk.js.map": "/Project-Portfolio-React/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa9b88db.css",
+    "static/js/main.cd8f4c60.js"
+  ]
+}
