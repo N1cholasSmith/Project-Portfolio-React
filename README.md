@@ -10,7 +10,7 @@ My Project Portfolio displays the technical excellence I possess as a Full Stack
 
 https://user-images.githubusercontent.com/88865022/149930316-eec820f2-d834-4f62-a37b-487b6c63a034.mp4
 
-[NicholasSmith.com](https://github.com/N1cholasSmith/Project-Portfolio-React/)
+[NicholasSmith.com](https://sleepy-lake-01567.herokuapp.com/)
 ---
 ## Table of Contents
 - [Description](#description)
